@@ -1,4 +1,14 @@
-![Screenshot 2024-09-09 170201](https://github.com/user-attachments/assets/dbfa2b25-70d0-409c-858b-2bc78cd368de)
-![Screenshot 2024-09-09 170424](https://github.com/user-attachments/assets/ad210c2a-7e12-48ab-8579-ade3afc79ac2)
-![Screenshot 2024-09-09 170616](https://github.com/user-attachments/assets/7158f7e5-949c-414c-931f-38b8cf4061d7)
-![Screenshot 2024-09-09 170543](https://github.com/user-attachments/assets/db8f55aa-1ec8-411d-bf83-89184c364ec1)
+# Job Scraper for SAP Careers
+
+This project is an asynchronous web scraper designed to extract job details from the SAP careers website. The script fetches job postings, extracts relevant details, and saves them in a structured JSON format.
+
+## Features
+
+- **Asynchronous Scraping:** Efficiently fetches multiple job pages simultaneously using `aiohttp` and `asyncio`.
+- **BeautifulSoup Integration:** Parses the HTML content of job pages to extract necessary details.
+- **Years of Experience Extraction:** Extracts the number of years of experience required from job descriptions using regular expressions.
+- **Duplicate Filtering:** Ensures that no duplicate job entries are saved in the final JSON file.
+- **JSON Output:** Saves the scraped job data in a neatly formatted JSON file.
+
+## Project Structure
+
