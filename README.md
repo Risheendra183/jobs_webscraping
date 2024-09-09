@@ -49,3 +49,24 @@ pip install aiohttp beautifulsoup4
 4. **View the output:**
 
    The scraped job data will be saved in the `json/job_data.json` file.
+
+Job Data Structure
+The output JSON file contains an array of job objects with the following structure:
+
+json
+
+[
+    {
+        "company": "SAP",
+        "job_title": "Job Title",
+        "eligibility_criteria": "Graduate",
+        "years_of_exp": "1-3",
+        "location": "Location",
+        "job_type": "Job Type",
+        "posted_date": "Sep 8, 2024",
+        "apply_link": "https://jobs.sap.com/talentcommunity/apply/1102475701/?locale=en_US"
+    }
+
+Customization
+Page Range: You can adjust the number of pages to scrape by modifying the range in the pages list in the main.py script.
+Regex for Experience: The regular expression used to extract years of experience can be further customized in the main.py script.
