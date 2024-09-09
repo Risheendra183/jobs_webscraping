@@ -24,3 +24,28 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install aiohttp beautifulsoup4
+
+## How to Run the Project
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/job-scraper.git
+    cd job-scraper
+    ```
+
+2. **Install the required dependencies:**
+
+    ```bash
+    pip install aiohttp beautifulsoup4
+    ```
+
+3. **Run the scraper:**
+
+    ```bash
+    python main.py
+    ```
+
+4. **View the output:**
+
+   The scraped job data will be saved in the `json/job_data.json` file.
