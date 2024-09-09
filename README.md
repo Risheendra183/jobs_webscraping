@@ -1,6 +1,6 @@
-# Job Scraper for SAP Careers
+# Job Scraper
 
-This project is an asynchronous web scraper designed to extract job details from the SAP careers website. The script fetches job postings, extracts relevant details, and saves them in a structured JSON format.
+This project is an asynchronous web scraper designed to extract job details from a careers website. The script fetches job postings, extracts relevant details, and saves them in a structured JSON format.
 
 ## Features
 
@@ -12,3 +12,15 @@ This project is an asynchronous web scraper designed to extract job details from
 
 ## Project Structure
 
+
+## Prerequisites
+
+- Python 3.7 or higher
+- `aiohttp` for asynchronous HTTP requests
+- `BeautifulSoup` for parsing HTML content
+- `re` for regular expressions
+
+You can install the required libraries using the following command:
+
+```bash
+pip install aiohttp beautifulsoup4
