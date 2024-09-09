@@ -6,7 +6,7 @@ Features
      Extract details including job title, company, eligibility criteria, location, job type, and posted date.
      Handle various formats of experience requirements.
      Avoid duplicate entries based on job title, location, and posted date.
-
+     
 Installation
 Clone the Repository:
 Copy code
