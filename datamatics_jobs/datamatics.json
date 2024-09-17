@@ -1,0 +1,840 @@
+[
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "RPA Presales",
+        "exp_needed": "3-6 yrs",
+        "Eligibility_criteria": [
+            "Functional: OCR/RPA , Presales",
+            "Behavioral: Team work & Collaboration , Initiative , Planning & Result Orientation"
+        ],
+        "job_description": [
+            "Experience in Intelligent Automation space working on RPA / IDP tools",
+            "Knowledge of IA tools like TruBot, TruCap+, UiPath, Automation Anywhere, Blue Prism, Abbyy, Kofax will be an added advantage",
+            "Good communication skills to carryout Product Demos for Intelligent Automation suite of products",
+            "Understanding needs / technical discussion",
+            "Ability to create Solution Designs for proposed solutions and proposals",
+            "Practical experience of architecting IA solutions for large enterprise customers will be an added advantage",
+            "Ability to work hands-on and carry out POCs",
+            "Technical proposal (Solution, Effort Estimation, Product BOM)",
+            "Previous experience in working on RFP responses",
+            "Past experience working on Analyst Responses",
+            "Training Partners and helping them with Technical Sales / POCs",
+            "Responsible to lead till the deal is closed either way",
+            "Carry out Competitor Analysis"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Implementation Lead",
+        "exp_needed": "8-12 yrs",
+        "Eligibility_criteria": [
+            "Functional:Functional Knowledge in the area of Data Migration, Implementation , Technical Knowledge in Scripting and Cloud Services",
+            "Behavioral:Team work & Collaboration , Initiative , Planning & Result Orientation"
+        ],
+        "job_description": [
+            "Data Migration Tools: Proficiency in data migration tools and technologies, such as ETL (Extract, Transform, Load) tools, data mapping, and data transformation techniques.",
+            "Database Skills: Strong knowledge of database systems, including SQL and NoSQL databases, as data migration often involves transferring data between different database platforms.",
+            "Scripting and Automation: Skills in scripting languages (e.g., Python, PowerShell) to automate migration processes, perform data validation, and handle repetitive tasks.",
+            "Cloud Services: Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and their migration services, as many organizations are migrating to the cloud.",
+            "Version Control: Experience with version control systems (e.g., Git) to manage and track changes in migration scripts and configurations.",
+            "Monitoring and Performance Tuning: Knowledge of tools and techniques for monitoring migration progress and optimizing performance during large-scale data migrations.",
+            "Security and Compliance: Understanding of data security and compliance requirements, especially when handling sensitive or regulated data during migrations.",
+            "Backup and Disaster Recovery: Proficiency in backup and disaster recovery procedures to ensure data integrity and availability during migration and rollback scenarios.",
+            "Containerization and Orchestration: Knowledge of containerization platforms (e.g., Docker) and container orchestration tools (e.g., Kubernetes) for managing application migrations.",
+            "Testing and Validation: Expertise in data validation, quality assurance, and testing methodologies to ensure the accuracy and completeness of migrated data.",
+            "Documentation and Reporting: Strong documentation skills to create detailed migration plans, reports, and post-migration documentation for audit and reference purposes.",
+            "Collaboration Tools: Proficiency in collaboration and project management tools (e.g., JIRA, Confluence) to facilitate communication and tracking of migration tasks."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Data Scientist",
+        "exp_needed": "7+ yrs",
+        "Eligibility_criteria": [
+            "Proven experience as a Data Scientist, preferably in Campaign Effectiveness or Market Research domain.",
+            "Expertise in causal inference, machine learning, and SQL.",
+            "Proficiency in advanced R program for modeling and analytics.",
+            "Experience with SPSS for data exploration.",
+            "Strong understanding of data governance and database management."
+        ],
+        "job_description": [
+            "Conduct causal inference, including hierarchical modeling, difference-in-differences, and using controls, with expertise in longitudinal design.",
+            "Apply Machine Learning skills for imputation and quick drivers analyses.",
+            "Familiarity with Campaign Effectiveness data and database, including an understanding of the unique methodologies required for this design.",
+            "Execute modeling tasks in R for complex analyses.",
+            "Utilize SPSS for ad hoc exploratory data analysis.",
+            "Proficient in SQL for data retrieval, manipulation, and database creation across multiple studies.",
+            "Perform static annual norms calculations efficiently, with knowledge of post-curve completion code.",
+            "Contribute to institutional knowledge regarding normative standards, cleanup processes, and consequences.",
+            "Execute data pulls for curves using SQL, ensuring alignment with normative standards.",
+            "Manage years of curves in an R-based application involving thousands of curves.",
+            "Join curves to an adjustment file through modeling.",
+            "Conduct all procedures and cleaning in R, recognizing the time-intensive nature of replicating processes."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote",
+        "job_title": "UiPath OCR Developer",
+        "exp_needed": "3-6 yrs",
+        "Eligibility_criteria": [
+            "Functional:Design , Development ,Testing",
+            "Behavioral: Team work & Collaboration , Initiative , Planning & Result Orientation"
+        ],
+        "job_description": [
+            "Responsible for developing Intelligent Document Processing using UiPath OCR Document understanding module",
+            "UIPath Document understanding module (OCR , Document capturing module)",
+            "Provide regular updates to the project team on the progress of development during the project.",
+            "Ensure that development timelines and quality parameters are met.",
+            "Collaborate and work closely with project managers, and constantly take their feedback during development",
+            "Hands on experience on UiPath Document understanding module experience with multiple projects and applications.",
+            "Should be able to understand and implement design document.",
+            "Certifications in any RPA Tools (Preferably UiPath)",
+            "Good communication skills"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Tech Project Manager",
+        "exp_needed": "8+ yrs",
+        "Eligibility_criteria": [
+            "Leadership - Achieves excellence in all areas of business. Champions change and effectively manage the implementation of new ideas",
+            "Teamwork - Reinforces team approach throughout development efforts. Supports and solicits input from team members",
+            "Client Management - Communicates effectively with clients to identify needs and evaluate alternative technical solutions and strategies. Continually defines ways to increase customer satisfaction and deepen client relationships.",
+            "Confidential - Maintains lasting client relationships. Ensures that we consistently deliver superior technical solutions to clients."
+        ],
+        "job_description": [
+            "Exposure to software development especially Web and Mobile.",
+            "Design software \u2013 high level as well as detailed design",
+            "Interact with customers, gather requirements and take over as a Scrum Master.",
+            "Take on all challenges of production and project management; lead the development team with an example.",
+            "Responsible for delivery deadlines",
+            "Responsible for estimating new proposals",
+            "Suggests smart technical solutions to meet client requirements efficiently",
+            "Consistently delivers high-quality services to our clients",
+            "Champion a responsive and stack-agnostic approach to modern software development",
+            "Should be proficient in Agile methodologies",
+            "Hands on when mentoring/helping other team members"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote, Mumbai, India",
+        "job_title": "Survey Programmer",
+        "exp_needed": "2+ yrs",
+        "Eligibility_criteria": [
+            "Behavioral : Communication and Interpersonal Effectiveness , Good Interpersonal skills, Positive attitude & Go-getter"
+        ],
+        "job_description": [
+            "Decipher Proficiency: Strong command over ConfirmIT tool survey programming tools and functionalities, including logic, piping, and survey customization.",
+            "Scripting Skills: Proficient in JavaScript and other relevant scripting languages for customizations within the Decipher platform.",
+            "Survey Optimization: Experience in optimizing surveys for various devices and platforms, ensuring compatibility and user-friendliness.",
+            "Quality Assurance: Ability to conduct thorough quality checks and validations to ensure error-free surveys and data integrity.",
+            "Collaboration and Communication: Effective communication skills to collaborate with stakeholders, gather requirements, and translate them into actionable programming tasks."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "AFC Presales Lead",
+        "exp_needed": "6-18 yrs",
+        "Eligibility_criteria": [
+            "Should have overall 6 \u2013 8 years of experience in the Presales or Solutioning team - AFC Or Tolling and Parking domain, preferably 4-5 years as a technical resource.",
+            "Should have experience working on formal RFPs / Tenders from Government or Semi \u2013 Government agencies.",
+            "Should understand the IT infra (Active/Passive networking, Computing)",
+            "Solutioning skills and Domain knowledge \u2013 AFC (Metro, ITS-MAAS, BRTS hardware and software)",
+            "Excellent MS Office Skills (PPT, Word & Styles, Excel)"
+        ],
+        "job_description": [
+            "Read the RFIs / RFPs and help the Sales team in making Go / No Go decisions vis-\u00e0-vis our capabilities.",
+            "Prepare BoQ in consultation with the Delivery team Products Owners",
+            "Liaison with the vendors to get quotations, technical proposal and compliances",
+            "Assist in preparing estimation of software, project and field services efforts.",
+            "Uses knowledge of our competitive technical as well as commercial / pricing strength to help the sales and technical organizations to propose appropriate and competitive solution for the requirement.",
+            "Develops and cultivate vendor / suppliers required for the providing competitive solutions for the requirements.",
+            "Helps the team in qualifying the sales opportunities in the terms of technical requirements, competition and decision making process.",
+            "Has knowledge of Automated Fare Collection, Tolling & Parking and associated domains. Maintains strong understanding of the competitive landscape within the respective areas."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Data Processor",
+        "exp_needed": "2-3 yrs",
+        "Eligibility_criteria": [
+            "Problem solving abilities",
+            "Good Communication Skills",
+            "Ability to teach or Mentor juniors",
+            "Willing to work in 7:00 PM-4:00 AM"
+        ],
+        "job_description": [
+            "Proven experience as a Data Processor, preferably in Market Research domain.",
+            "Strong experience in writing syntax using SPSS",
+            "Practical experience working on trackers/dips/adhocs in SPSS/Q Software",
+            "Should have specialized skills in handling complex/huge data sets",
+            "Experience in creating automatic tables in Q Software",
+            "Experience in creating sub routines/macros",
+            "Should have good knowledge of R/JavaScript",
+            "Able to create process/efficiency",
+            "Proficiency in scripting, stacking, weighting",
+            "Experience with SPSS for data processing",
+            "Should have passion towards subject and self-driven",
+            "Adaptable to changing and evolving circumstances"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai/Pune/Bangalore, India",
+        "job_title": "Inside Sales",
+        "exp_needed": "2+ yrs",
+        "Eligibility_criteria": [
+            "Strong Communication skills- verbal & written",
+            "Good Interpersonal skills.",
+            "Positive attitude & Go-getter",
+            "Being Social Media savvy would be an advantage",
+            "Tools and Familiarity:Hubspot (CRM), Zoom Info, Seamless. AI, Linked In Sales Navigator would be an added advantage.",
+            "Shift Timing- - US (5.30 PM-2.30 AM / 6:30 PM \u2013 3:30 AM) - Europe (12:00 -9:00 PM)",
+            "Job Location: Mumbai, Bangalore, Pune (Currently, the role would require you to work in a Hybrid environment but from a long-term perspective, this would need you to report to work at the given location). People from the above location would be given preference. For the Initial 30 days, you would be mandatory required to work from Mumbai Office."
+        ],
+        "job_description": [
+            "Generate qualified leads based on in-depth, geo/industry/product research & competitor analysis for focused verticals through web and social media.",
+            "Set up qualified meetings, and ensure the sales personnel is equipped with necessary information. Orient them on subtle nuances captured during the lead-generation exercise.",
+            "Assist in building sales collaterals to orient prospective clients.",
+            "Assist in activation and running of various communications geo/industry/product campaigns using various mediums (including email, phone & events campaigns).",
+            "Stay abreast of market developments and understand competitor trends. Analyze and use the same for targeting potential prospects.",
+            "Persistently follows up with the client in a clear & timely manner to ensure on building lasting relations.",
+            "Communicate clearly and gauge verbal and non-verbal cues of the prospects and aims to maximize on them.",
+            "Create and maintain a database for future reference and use.",
+            "The 4 Lines of Services include: 1) Intelligent Automation (Trubot and Trucap\u2026RPA and IDP Solutions), 2) Customer Management And Research and Analytics (Contact Centre, Market Research, Big Data and Analytics, Gen AI), 3) IT Services (Hyper Automation, Application development, Modernisation, Cloud and DevOp, Business Solution and Platform, Salesforce COE\u2026.) 4) Finance and Accounting Services ( CFO Backoffice \u2013 Accounts Payable, Receivables, Order 2 Cash, Reconciliation, R2R)"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote Work, Mumbai, India",
+        "job_title": "Subject Matter Expert (SME) for Q",
+        "exp_needed": "8+ yrs",
+        "Eligibility_criteria": [
+            "Proven experience as SME, preferably in Market Research domain.",
+            "5+ years of relevant experience in Q",
+            "Expertise in writing syntax using Q.",
+            "Proficiency in scripting, stacking, weighting",
+            "Experience with Q for data processing",
+            "Willing to work in 7:00 PM-4:00 AM shift"
+        ],
+        "job_description": [
+            "Work independently on setting up complex surveys in Q and SPSS.",
+            "Work on complex setups using Q.",
+            "Build custom setups and solutions R and JScript in.",
+            "Guide the client in more effective ways of processing/analysing the data.",
+            "Guide and train the team on Q, including best practices and more effective ways of coding",
+            "Review the material provided by client to identify gaps that can create challenges in analysing the data or missing metrics",
+            "Review program from the team to identify short comings and missed scenarios.",
+            "Be able to debug scripts and code written by other analysts.",
+            "Be able to analyse data (excel, SPSS, SQL) to identify data issues and the source of the issue.",
+            "Master Client\u2019s standards and processes",
+            "Set processes and best practices for the team",
+            "Design and build dashboards / reports for the client."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote Work, Mumbai, India",
+        "job_title": "Subject Matter Expert (SME) for Decipher",
+        "exp_needed": "8+ yrs",
+        "Eligibility_criteria": [
+            "Proven experience as SME, preferably in Market Research domain.",
+            "Expertise in Decipher",
+            "Willing to work in 7:00 PM-4:00 AM shift"
+        ],
+        "job_description": [
+            "Work independently on setting up complex surveys in Decipher.",
+            "Work on complex quota setups and updates during fieldwork.",
+            "Build custom setups and solutions Python, JQuery and JScript in Decipher.",
+            "Guide the client in more effective ways of administering the question.",
+            "Guide and train the team on Decipher, including best practices and more effective ways of coding.",
+            "Review the material provided by client to identify gaps that can create challenges in analysing the data or missing metrics.",
+            "Review program from the team to identify short comings and missed scenarios.",
+            "Be able to debug scripts and code written by other programmers.",
+            "Be able to analyse data (excel, SPSS, SQL) to identify data issues and the source of the issue.",
+            "Sample management on Decipher",
+            "Master Client\u2019s standards and processes",
+            "Set processes and best practices for the team",
+            "Design and build field status reports"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai",
+        "job_title": "UiPath Developer",
+        "exp_needed": "4-5 yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional:Experience in Excel Automation, Email Automation, Windows, Web and Enterprise-wide applications & Functional Knowledge",
+            "Behavioral:Strong Problem-Solving and Analytical Skills, Excellent verbal, written, and interpersonal communication skills, Planning & Result Orientation"
+        ],
+        "job_description": [
+            "UiPath Developer and Advance Developer Certification Preferable",
+            "Design, Develop and Implement automation workflows using UiPath to streamline business processes.",
+            "Hands-on experience in Re- Framework, UiPath components: Robot/Assistant, Studio and Orchestrator",
+            "Hands-on Experience in Excel Automation, Email Automation, Windows, Web and Enterprise-wide applications.",
+            "Monitoring the Jobs/Logs on the UiPath environment and Exception handling.",
+            "Work closely with the business team to identify project requirements and Prepare Process Design Documents and Solution Design Documents.",
+            "Experience on working on SharePoint and Workday will be an advantage.",
+            "Support existing processes in Production and UAT.",
+            "Implement change requirements as part of a structured change control process.",
+            "Provide solution designs during the project implementation phase.",
+            "Responsible for the overall testing of the Solution, including PreProd and UAT.",
+            "Performing Technical feasibility based on the requirements.",
+            "Ability to translate and summarize complex technical information into understandable, actionable information.",
+            "Work timing will be 4.30 pm \u2013 12.30 am India time."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Data Expert",
+        "exp_needed": "9+ yrs",
+        "Eligibility_criteria": [
+            "Strong data analysis and design skills with experience on SQL Server, SSIS, EAI, API Design and Management, should have worked on EAI implementations.",
+            "Practical experience in Database Development (architecture, design and integration and modeling) is must, should have worked on structured and unstructured databases.",
+            "Experience in implementing ETL Processes, File processing and Data transformations is must.",
+            "Must have worked on cross platform integration implementation and EAI tools such as Biztalk, Logic Apps, MuleSoft is desired.",
+            "Experience with Microsoft Azure (Elastic Pool, SQL Azure, Data Factory) and other Dev related PAAS and SAAS Services.",
+            "Knowledge and exposure to Python, Data Lake, Big Data and Data Science applications desired.",
+            "Experience with Microsoft Office suite, JIRA and Confluence.",
+            "Familiarity with GIT, Bamboo, ticketing systems and modern build tools.",
+            "Experience with web and mobile application development is a plus.",
+            "Candidate must possess strong business communication and English language (written & verbal) competency."
+        ],
+        "job_description": [
+            "Design and development of a cloud-based middleware platform and solution using various EAI processes, APIs, Micro services, and User Interfaces.",
+            "Assist in data design, modelling and development of Enterprise Data warehouse based on Data Vault methodology.",
+            "Continuous improvement of the associated DevOps processes.",
+            "Development and maintenance of client and partner interfaces.",
+            "Supporting in all phases of the software development lifecycle.",
+            "Assisting the integration third level support.",
+            "Proven experience in software development, integrating systems on one platform under an Agile methodology.",
+            "Sound knowledge of designing Enterprise wide data vaults and marts.",
+            "Understanding of Enterprise Frameworks, Release procedures, understanding of development environments.",
+            "Initial experience in the field of supply chain management integration and automation would be an asset.",
+            "Must have experience in managing client expectations in international/global delivery engagements.",
+            "Strong people management skills and can lead team on data integrations and Datawarehouse function."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Technical Project Manager",
+        "exp_needed": "13-18 yrs",
+        "Eligibility_criteria": [
+            "Acts as a leader who coaches and supports teams assigned to mainly Business as Usual (BAU) work and to a lesser degree, important department initiatives and applicable portions of corporate projects and initiatives.",
+            "Exemplifies and promotes Agile values and principles.",
+            "Outstanding communication, facilitation, negotiation, planning, problem solving, coaching and leadership skills."
+        ],
+        "job_description": [
+            "Work closely with engineering teams to architect scalable, robust and cost-effective solutions.",
+            "Review code, provide feedback to improve quality and efficiency.",
+            "Take a key role in managing non-functional requirements and technical debt by creating visibility, setting measurable targets, and holding teams accountable.",
+            "Mentor junior developers on development skills and standards.",
+            "Collaborate with various stakeholders across the company to develop technical solutions.",
+            "Seasoned Technical Project Manager with 13 to 18 years of experience and having minimum 8 years of Technical PM experience.",
+            "Proven experience in leading team with minimum 50+ technical members with roles from Technical Architect, Tech Leads, Devs, QA etc)",
+            "Ablity to Challenge technical team on the estimations with valid data points.",
+            "Demonstrate technical ablities during technical discussions with Enterprise architects, Application Architect, Tech Leads, SMEs from customer end.",
+            "Create strategy, technical blue print, high level and low level design documents.",
+            "Guides and coaches the Team on how to use Agile practices and principles to deliver high quality products and services to our customers.",
+            "Gets team to a high performing level by recognizing areas of strength and improvement and employing appropriate coaching and development techniques.",
+            "Hand on knowledge with Agile Scrum, SAFe Agile & most recent industry developments on Process.",
+            "Responsible for ensuring team adheres Process, practice and guidelines.",
+            "Works with Team, as well as internal and external stakeholders, to influence and drive decision making and support organizational project or product teams.",
+            "Resolves team impediments with other Managers & Leads to increase the effectiveness of team.",
+            "Adept at refinement, story splitting, estimation, velocity, retrospection, and other Scrum techniques.",
+            "Ensure projects are delivered on-time, within scope and within budget along with desired quality.",
+            "Report and escalate to management on time.",
+            "Manage the relationship with the client and all stakeholders.",
+            "Perform risk management to minimize project risks."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "OutSystem Architect",
+        "exp_needed": "12+ yrs",
+        "Eligibility_criteria": [
+            "OutSystems Certifications.",
+            "Outstanding Communication Skills.",
+            "Negotiation Skills.",
+            "Planning and Problem Solving Skills.",
+            "Coaching and Leadership skills."
+        ],
+        "job_description": [
+            "Work closely with engineering teams to architect scalable, robust and cost-effective solutions.",
+            "Review code, provide feedback to improve quality and efficiency.",
+            "Take a key role in managing non-functional requirements and technical debt by creating visibility, setting measurable targets, and holding teams accountable.",
+            "Mentor junior developers on development skills and standards.",
+            "Collaborate with various stakeholders across the company to develop technical solutions.",
+            "Overall 12+ years of experience and minimum 6 years in OutSystems.",
+            "Proven track record of writing high quality, efficient code using OutSystems, APIs and scripting languages.",
+            "Design, build and configure applications to meet business process and application requirements.",
+            "He/she must have completed at least 2 end to end OutSystems projects.",
+            "Working with databases and designing data models.",
+            "Building applications and services in OutSystems for web and/or mobile.",
+            "Proficiency with OutSystems Service Studio.",
+            "Working in an Agile Software development environment.",
+            "Technical skills and competency of OutSystems architecture and general solution design.",
+            "Strong knowledge of Service Center and Lifetime.",
+            "Keen problem-solving mindset to meet the needs of our customers.",
+            "Ability to collaborate well with all team members and to contribute during planning, refinement, and review ceremonies.",
+            "Good understanding of developing multi-tenant application using OutSystems platform.",
+            "Build BPT flows in OutSystems Application."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "AWS Cloud Solution Architect",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional:Cloud Architecture Design, Azure PaaS Expertise, Full-Stack Development, Enterprise Integration, Compliance and Best Practices",
+            "Behavioral:Building Relationship, People Management"
+        ],
+        "job_description": [
+            "15+ years of overall IT experience and 5+ years of experience in AWS.",
+            "Proven experience in developing cloud migration strategies, defining migration roadmaps, and providing accurate estimates.",
+            "Experience in working on RFP/Presales activities, Cloud COE, estimations and cloud migration strategies for applications.",
+            "Hands-on experience in developing and deploying Cloud Native Applications utilizing AWS PaaS Capabilities such as AWS Lambda, Secrete Manager, RDS, Aurora, Containers, EKS (AWS Kubernetes Service), Step Functions, Event Bridge and API Management.",
+            "Familiarity with Enterprise Integration Technologies such as SQS, SNS, AWS API Gateway, Event Bridge.",
+            "Proficiency with AWS VPC, Security Groups, IAM, S3, Cloud Front, KMS etc.",
+            "Responsible for designing scalable, cost-effective, and efficient solutions while taking care of compliance and best practices.",
+            "Working closely with stakeholders and product teams to gather technical and non-technical requirements and translate them into well-architected solutions.",
+            "Configure and deploy solutions using automated solutions such as AWS Cloud Formation and Terraform.",
+            "Experience in application architecture and Full stack programming using JEE/Microsoft, Spring boot/.NET core, Python, Node, React, Angular Etc.",
+            "Experience in database technologies SQL, PS/SQL, MS SQL, PostgreSQL.",
+            "Ensure that the architecture and solutions are compliant with AWS best practices and mitigate any security vulnerabilities that might occur.",
+            "Focus on optimizing performance, scalability, and cost-efficiency of cloud applications.",
+            "Provide technical support on AWS-related issues, monitor solutions, and implement appropriate strategies to eliminate performance bottlenecks.",
+            "Utilize tools such as IAM, resource tagging, cost management, etc. to enforce AWS governance policies and implement monitoring and alerting solutions to address issues proactively."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "AS400+Cleo CIC Developer",
+        "exp_needed": "10-12 yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional:IBM AS400 Development, RPG and CL Programming, Cleo CIC Expertise, Logical and Troubleshooting Skills, EDI Mapping Templates",
+            "Behavioral:Building Relationship, Strong verbal and written communication skills."
+        ],
+        "job_description": [
+            "Overall 10-12 years of experience.",
+            "5-6 years of experience in development of IBM AS400 Systems.",
+            "Excellent RPG programming & CL programming experience, should be able to write new programs or understand / troubleshoot from existing programs.",
+            "5-6 years of experience in development of Cleo CIC.",
+            "High Logical and troubleshooting skills.",
+            "Experience on Transportation EDI mapping templates would be given preference.",
+            "Independent contributor with passion to deliver quality on time.",
+            "Preferred immediate joiner, but max 1 month notice can be negotiated with customer.",
+            "Preferred working shift India night shift, but for right candidate working in India second shift can be negotiated."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, Remote India",
+        "job_title": "Bid Manager",
+        "exp_needed": "8-10 yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional:Bid Process Management, Cross-Functional Collaboration, Bid Strategy Development, Proposal Writing and Review, Performance Tracking.",
+            "Behavioral:Building Relationship, People Management."
+        ],
+        "job_description": [
+            "Coordinate and manage the entire bid process, from initial opportunity identification to proposal submission and post-bid reviews.",
+            "Collaborate with various internal teams, including Sales, delivery, Legal and Finance to gather required information and resources for bids.",
+            "Conduct thorough analysis of bid requirements, including RFPs, RFIs, and RFQs, to develop comprehensive bid strategies and response plans.",
+            "Lead and facilitate bid kickoff meetings to establish clear timelines, roles, and responsibilities for bid preparation.",
+            "Write, edit, and review proposal content to ensure clarity, compliance, and alignment with client requirements and objectives.",
+            "Manage the development of compelling bid materials, including executive summaries, overall solution mapping, pricing models, and presentations.",
+            "Maintain a centralized repository of bid-related documents, templates, and best practices to streamline the bid management process.",
+            "Ensure timely submission of high-quality proposals within designated deadlines, adhering to all submission requirements and guidelines.",
+            "Track and report on bid performance metrics, including win rates, bid costs, and lessons learned, to drive continuous improvement."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Azure Cloud Solution Architect",
+        "exp_needed": "17+ yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional:Cloud Architecture Design, Azure PaaS Expertise, Full-Stack Development, Enterprise Integration, Compliance and Best Practices",
+            "Behavioral:Building Relationship, People Management"
+        ],
+        "job_description": [
+            "17+ years of overall IT experience and 5+ years of experience Azure.",
+            "Proven experience in developing cloud migration strategies, defining migration roadmaps, and providing accurate estimates.",
+            "Responsible for designing scalable, cost-effective, and efficient solutions while taking care of compliance and best practices.",
+            "Experience in working on RFP/Presales activities, Cloud COE, estimations and cloud migration strategies for applications.",
+            "Working closely with stakeholders and product teams to gather technical and non-technical requirements and translate them into well-architected solutions.",
+            "Hands-on experience in developing and deploying Cloud Native Applications utilizing Azure PaaS Capabilities such as App Services Plans, Key Vault, SQL Azure DB, Azure Functions, Containers, AKS (Azure Kubernetes Service), Logic Apps, Service Bus, Event Grid, and API Management.",
+            "Hands-on experience in low code platform Power Apps, Power Automate, Dataverse, SharePoint.",
+            "Familiarity with Enterprise Integration Technologies such as BizTalk, Azure API Management, Logic Apps, and Service Bus.",
+            "Experience in application architecture and Fullstack programming using Microsoft, .NET core, Python, Node, React, Angular Etc.",
+            "Ensure that the architecture and solutions are compliant with Azure best practices and mitigate any security vulnerabilities that might occur.",
+            "Focus on optimizing performance, scalability, and cost-efficiency of cloud applications.",
+            "Experience in database technologies SQL, PS/SQL, MS SQL, PostgreSQL.",
+            "Experience with Azure Governance and Best Practices, Azure Architect Role-Based Access Control (RBAC), networking architectures, cost management controls, and other Azure governance principles."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Mumbai, India",
+        "job_title": "Cloud Infra Architect",
+        "exp_needed": "17+ yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional:Cloud Architecture Design, Azure and AWS PaaS Expertise, Full-Stack Development, Enterprise Integration, Compliance and Best Practices",
+            "Behavioral:Building Relationship, People Management"
+        ],
+        "job_description": [
+            "17+ years of overall IT experience and 5+ years of experience in Azure and AWS.",
+            "Proven experience in developing cloud migration strategies, defining migration roadmaps, and providing accurate estimates.",
+            "Responsible for designing scalable, cost-effective, and efficient solutions while taking care of compliance and best practices.",
+            "Proficiency with Azure Resource Manager, Resource Groups, Virtual Networks, Azure ExpressRoute, Azure Virtual Machines, Azure Blob Storage, PowerShell DSC, Azure Automation, Azure Active Directory, and Azure Site Recovery, IAM policies, Access control.",
+            "Proficiency with AWS Organization, VPC, EC2, S3, Linux, IAM policies, Access Control, direct connect, backup and recovery, DR setup.",
+            "Experience in working on RFP/Presales activities, Cloud COE, estimations and cloud migration strategies for applications.",
+            "Working closely with stakeholders and product teams to gather technical and non-technical requirements and translate them into well-architected solutions.",
+            "Experience in DR setup, Storage backup and recovery for cloud workload.",
+            "Hands-on experience in Lift and shift migration of custom build and COTS applications to AWS and Azure Cloud.",
+            "Hands-on experience in AWS and Azure Kubernetes, Cloud Watch, Cloud Formation Templates, Azure ARM Templates, Terraform Scrips.",
+            "Experience DevOps, Azure DevOps and AWS DevOps, Jenkins etc.",
+            "Extensive experience Cloud Landing zone setup, VPC and Networking setup.",
+            "Ensure that the architecture and solutions are compliant with Azure/AWS best practices and mitigate any security vulnerabilities that might occur.",
+            "Focus on optimizing performance, scalability, and cost-efficiency of cloud applications.",
+            "Experience in SQL database lift & Shift and Big Data Lift and shift to cloud.",
+            "Experience with Azure/AWS Governance and Best Practices, Azure/AWS Architect Role-Based Access Control (RBAC), networking architectures, cost management controls, and other Azure governance principles."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote Work, Mumbai, India",
+        "job_title": "Subject Matter Expert (SME) for Q",
+        "exp_needed": "10+ yrs",
+        "Eligibility_criteria": [
+            "Proven experience as SME, preferably in Market Research domain.",
+            "Expertise in writing syntax using Q.",
+            "Experience in Q coding and scripting.",
+            "Willing to work in 7:00 PM-4:00 AM shift"
+        ],
+        "job_description": [
+            "Work independently on setting up complex surveys in Q and SPSS.",
+            "Work on complex setups using Q for minimum 3 years.",
+            "Guide the client in more effective ways of processing/analysing the data.",
+            "Guide and train the team on Q, including best practices and more effective ways of coding",
+            "Review the material provided by client to identify gaps that can create challenges in analysing the data or missing metrics",
+            "Review program from the team to identify short comings and missed scenarios.",
+            "Be able to debug scripts and code written by other analysts.",
+            "Be able to analyse data (excel, SPSS, SQL) to identify data issues and the source of the issue.",
+            "Master Client\u2019s standards and processes",
+            "Set processes and best practices for the team"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Bengaluru, India",
+        "job_title": "Channels & Partnership Specialist",
+        "exp_needed": "3-8 yrs",
+        "Eligibility_criteria": [
+            "3-8 years of experience driving market strategies for Microsoft products with a prior experience of driving GTM strategies",
+            "Strong exposure or understating of Microsoft Azure, open AI, Business Application and its services",
+            "Ability to think creatively and critically and thrive in a fast-paced, dynamic, and often ambiguous work environment",
+            "Highly developed interpersonal skills and ability to build relationships",
+            "Ability to bring in creativity to the role, while also being deeply data-driven and analytical in approach."
+        ],
+        "job_description": [
+            "Manage go-to-market strategies - owning and executing product marketing by developing product positioning and messaging. Work closely with the demand generation teams and provide marketing support at every step.",
+            "Corporate strategy \u2013 be the custodian of the corporate strategy and develop high impact materials for prospects, customers, and internal customer-facing teams",
+            "Differentiation Strategy \u2013 Creating powerful content on competitive differentiation & devise replacement programs.",
+            "Collaboration - working with cross-functional teams to design and deliver integrated marketing campaigns to drive customer acquisition",
+            "Build and lead customer marketing programs. Engage in on-going dialogue with customers.",
+            "Marketing programs - Develop various email, webinar and other online marketing programs for various campaigns.",
+            "Events \u2013 Participating in various events and organizing round tables and other events.",
+            "Demand Generation - Work closely with the Business Development and Sales Team right from lead generation to deal closure and provide marketing support at every step",
+            "Market intelligence - Conduct ongoing market research and gain expertise about buyers, how they buy and their buying criteria; be the expert on your competition",
+            "Content creation - own the creation of the whole spectrum of sales tools and collateral (PowerPoint presentations, datasheets, white papers, customer case studies, demos, and training materials) to communicate the value proposition of our products and solutions to customers, prospects, and the sales team",
+            "Analyst relationship \u2013 Initiating Analyst Relationship programs for Analyst outreach",
+            "Win/ Loss Analysis \u2013 Analyzing the reasons behind a prospect win or loss and reporting the same. Tracking key competitors and creating shadow marketing programs to tackle them.",
+            "Track business performance - Identify levers in improving business performance and champion necessary initiatives to improve. Synthesize and present complex data set to an executive audience."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Bengaluru, India",
+        "job_title": "Sales Manager",
+        "exp_needed": "10+ yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional: Sales ability / Persuasiveness, Business and Industry Analysis , Development of Leads to Sales, Sales Closing",
+            "Behavioral: Building Relationship, People Management"
+        ],
+        "job_description": [
+            "In-depth knowledge of Datamatics offerings and value proposition.",
+            "Use an existing network of industry contacts to generate new business (Building a 'territory\u2018) and acquire new customers for Datamatics\u2019 IT & Digital Offerings.",
+            "Team handling experience.",
+            "In-depth knowledge of market trends and competitor landscape.",
+            "Understand the customer\u2019s buying cycle.",
+            "Hunt for new logos / clients \u2013 majorly the MHA (Must Have Accounts).",
+            "Achieve and regularly meet sales target",
+            "Contribute to the overall sales growth strategies and plans",
+            "Drive the entire sales cycle from initial prospect engagement to closure (Networking, presentation, negotiation, persistent follow-ups)",
+            "Identify and map business strengths and customer\u2019s diverse needs",
+            "Anticipate possible escalations and keep the Sales posted for timely intervention",
+            "Respond to bid documents, legal clauses, reviewing RFPs and supporting documents."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Bengaluru, India",
+        "job_title": "Subject Matter Expert, BFS",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional: Relevant certifications in the BFS domain, risk management, compliance, or related fields (e.g. CRMA, CISA, CAMS, PRM, CFSA) will be considered a valuable advantage. Relevant BA certifications (e.g., CSPO, CBAP, PMI-PBA) would be an added advantage."
+        ],
+        "job_description": [
+            "Act as a senior SME, providing expert guidance on Banking and Financial Services operations, products, and services within the Indian market.",
+            "Collaborate seamlessly with cross-functional teams to optimise and enhance business processes.",
+            "Provide strategic guidance to the team on IT and Digital Technologies Banking and Financial services.",
+            "Conduct thorough assessments to identify and mitigate risks associated with BFS operations. Conduct in-depth analysis of business operations, processes, and challenges, identifying opportunities for improvement and innovation through interviews, workshops, and data analysis.",
+            "Engage with senior leadership to offer strategic insights and recommendations.",
+            "Contribute actively to the development and execution of business plans within the BFS domain.",
+            "Foster and maintain effective relationships with regulatory bodies, industry associations, and other external stakeholders.",
+            "Experience working in Banking Enterprise preferably in Retail Banking business.",
+            "Possess a comprehensive understanding of the BFS sector in India.",
+            "Exposure to IT services and product development within the BFS landscape.",
+            "Showcase proven leadership skills with the ability to influence and guide cross-functional teams.",
+            "Lead and mentor junior Business Analysts, fostering a collaborative and high-performing team environment.",
+            "Exceptional communication and interpersonal skills, influencing stakeholders at all levels and building strong relationships.",
+            "Proficiency in relevant tools and technologies, including Visio, UML, MS Office Suite, data analysis tools, and project management software.",
+            "Excellent analytical and problem-solving skills with the ability to translate business needs into technical specifications.",
+            "Proven ability to work independently and manage multiple projects concurrently.",
+            "Familiarity with RBI regulations, SEBI guidelines, and other relevant laws governing the Indian financial services industry (AML, KYC, BSA, SOX, PCI DSS, CFPB, GDPR, SEC, FATF, Basel III)"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Bengaluru, India",
+        "job_title": "Solution Architect / Technical Architect, BFS",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Technical / Functional: Relevant certifications in the BFSI domain.",
+            "Behavioural: Excellent communication skills, Stakeholder management."
+        ],
+        "job_description": [
+            "Own and oversee the technology practice for all projects within the BFSI (India) VBU.",
+            "Provide technical leadership across a diverse technology stack, encompassing mobile and web applications.",
+            "Define and review technical architectures, both at high and low levels of design.",
+            "Ensure the implementation of optimized processes for code review, project output, and adherence to industry best practices.",
+            "Build, develop, and guide high-performing talent, establishing a long-term talent strategy spanning technology domains.",
+            "Act as an unblocker in an agile environment, assisting architects, analysts, and developers with challenges and problem-solving. Engage in hands-on coding while mentoring or assisting other team members.",
+            "Stay abreast of emerging technologies and trends in engineering and development within the BFSI domain.",
+            "Act as a technology evangelist, representing the company in external forums.",
+            "Overall experience of 15+ years. Minimum 5 years experience in Solutioning Enterprise Mobile and Web Applications preferably for BFSI products.",
+            "Extensive hands-on experience in Backend, Web, Mobile, Cloud, Artificial Intelligence technologies.",
+            "Proficiency with server side languages like Java / Node.js / Python.",
+            "Proficient in using architecture modeling tools and frameworks.",
+            "Solid understanding of security, data privacy, and compliance considerations in the BFSI sector.",
+            "Preferably having a good understanding of regulatory frameworks governing the BFSI sector, such as RBI Guidelines, DPDPA, PCI DSS and industry-specific regulations.",
+            "Experience in designing and implementing microservices-based architectures.",
+            "Knowledge of containerization and orchestration tools like Docker and Kubernetes.",
+            "Proficiency in designing, implementing, and managing APIs for seamless integration of systems.",
+            "Experience in at least one Cloud (AWS/Azure/GCP) platform.",
+            "Strong knowledge of native and cross-platform technologies - Android, Kotlin, iOS, Swift, Objective C, React Native, Flutter and working with MVVM, MVP, MVC patterns.",
+            "Familiarity with JavaScript frameworks such as Node, Angular and React.",
+            "Familiarity with database technology such as Oracle, MySQL and MongoDB."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Nashik, India",
+        "job_title": "Executive CMS Proctor",
+        "exp_needed": "1+ yrs",
+        "Eligibility_criteria": [
+            "Knowledge of MS Office/MS Excel",
+            "Very Important verbal and written communication skills",
+            "Continually updating skills and learning new platforms with working on multiple platforms"
+        ],
+        "job_description": [
+            "Supervise or remote proctor live professional exams for international candidates",
+            "Only chat messaging skill with candidates",
+            "Multi-tasking, toggle between multiple windows.",
+            "Basic troubleshooting for exams",
+            "Give accurate exam information to candidates",
+            "Follow exam admission sponsor guides for multiple exams at a time.",
+            "Documenting the candidate experience in proper English.",
+            "Help identify and manage the risks and issues, and timely escalations.",
+            "Follow the documented business processes."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Edison, NJ (US)",
+        "job_title": "Director Sales & Business Development",
+        "exp_needed": "12+ yrs",
+        "Eligibility_criteria": [
+            "Sales & Business Development",
+            "Good understanding of the BFSI/Healthcare/Manufacturing/Retail industry."
+        ],
+        "job_description": [
+            "Qualify Leads and Create appropriate funnel for services in existing & new accounts in the region.",
+            "Develop and execute sales plan to achieve sales objectives in defined industry verticals.",
+            "Must be essentially a hunter however some account farming experience will be a plus",
+            "Should have the acumen to handle CXO relationships",
+            "Proven experience with selling Digital Solutions i.e. Cloud, AI, CRM & Automation",
+            "Strong understanding of the North American market."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote, USA",
+        "job_title": "AVP, Enterprise Sales",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Planning & Result Orientation",
+            "Problem Solving & Decision Making",
+            "Communication & Interpersonal Effectiveness",
+            "People Management",
+            "Thought Leadership",
+            "Strategic Thinking"
+        ],
+        "job_description": [
+            "Identify and prioritize target accounts in the enterprise sector, focusing on key industries and verticals.",
+            "Develop and execute strategic sales plans to achieve revenue targets and exceed sales quotas.",
+            "Build and maintain strong relationships with key decision-makers and influencers within target accounts.",
+            "Conduct thorough needs assessments and propose customized solutions to address client challenges and objectives",
+            "Collaborate with internal teams, including marketing, product development, and operations, to ensure alignment and support for sales initiatives.",
+            "Stay updated on industry trends, competitive landscape, and customer insights to inform sales strategies and decision-making.",
+            "Provide accurate sales forecasts, pipeline updates, and performance reports to management on a regular basis."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote, USA",
+        "job_title": "AVP, Strategic Accounts",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Planning & Result Orientation",
+            "Problem Solving & Decision Making",
+            "Communication & Interpersonal Effectiveness",
+            "People Management",
+            "Thought Leadership",
+            "Strategic Thinking"
+        ],
+        "job_description": [
+            "Develop and implement strategic account plans to drive revenue growth and maximize customer satisfaction.",
+            "Build and maintain strong relationships with key stakeholders at all levels of client organizations, including C-suite executives, to understand their business needs and identify opportunities for collaboration.",
+            "Lead the sales process from opportunity identification and qualification to contract negotiation and closure, ensuring alignment with company objectives and revenue targets.",
+            "Collaborate with internal teams, including sales, marketing, operations, and product development, to develop customized solutions that address client challenges and deliver measurable value.",
+            "Monitor market trends, competitive landscape, and industry developments to identify emerging opportunities and mitigate potential risks.",
+            "Provide regular updates and reports on sales performance, customer feedback, and market insights to senior management.",
+            "Mentor and develop team members, providing guidance and support to enhance their skills and capabilities."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote, USA",
+        "job_title": "Sales Director",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Planning & Result Orientation",
+            "Problem Solving & Decision Making",
+            "Communication & Interpersonal Effectiveness",
+            "People Management",
+            "Thought Leadership",
+            "Strategic Thinking"
+        ],
+        "job_description": [
+            "In-depth knowledge of Datamatics IT/software business offerings and value proposition.",
+            "Use an existing network of industry contacts to generate new business (Building a 'territory\u2018) and acquire new customers for Datamatics\u2019 IT offerings i.e. Application Management, Cloud Consulting, Enterprise Content Management, Enterprise Portals, CRM and Intelligent Automation.",
+            "In-depth knowledge of market trends and competitor landscape",
+            "Understand the customer\u2019s buying cycle",
+            "Hunt for new logos / clients \u2013 majorly the MHA (Must Have Accounts)",
+            "Achieve and regularly meet sales target.",
+            "Contribute to the overall sales growth strategies and plans.",
+            "Drive the entire sales cycle from initial prospect engagement to closure (Networking, presentation, negotiation, persistent follow-ups)",
+            "Identify and map business strengths and customer\u2019s diverse needs",
+            "Anticipate possible escalations and keep the Sales posted for timely intervention",
+            "Respond to bid documents, legal clauses, reviewing RFPs and supporting documents"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Livonia, MI and unanticipated client sites across the US. Must be willing to travel and/or relocate domestically.",
+        "job_title": "Network Engineer-IT Operations",
+        "exp_needed": "2+ yrs",
+        "Eligibility_criteria": null,
+        "job_description": [
+            "Install, configure, support LAN, WAN & Internet systems.",
+            "Implementing site-to-site VPN & dynamic routing protocols.",
+            "Assist in network analysis of data communication faults within hardware & software.",
+            "Implement network security measures & design data integration with ERP systems & monitor systems using Active Directory, VMware, Azure, AWS, Microsoft Exchange Server, TCP/IP, SQL Server, SSL, Devops, Cisco ASA Firewall.",
+            "Assist to resolve problems."
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    },
+    {
+        "company": "Datamatics",
+        "location": "Remote, UK",
+        "job_title": "Sales Director",
+        "exp_needed": "15+ yrs",
+        "Eligibility_criteria": [
+            "Planning & Result Orientation",
+            "Problem Solving & Decision Making",
+            "Communication & Interpersonal Effectiveness",
+            "People Management",
+            "Thought Leadership",
+            "Strategic Thinking"
+        ],
+        "job_description": [
+            "In-depth knowledge of Datamatics IT/software business offerings and value proposition.",
+            "Use an existing network of industry contacts to generate new business (Building a 'territory\u2018) and acquire new customers for Datamatics\u2019 IT offerings i.e. Application Management, Cloud Consulting, Enterprise Content Management, Enterprise Portals, CRM and Intelligent Automation.",
+            "In-depth knowledge of market trends and competitor landscape",
+            "Understand the customer\u2019s buying cycle",
+            "Hunt for new logos / clients \u2013 majorly the MHA (Must Have Accounts)",
+            "Achieve and regularly meet sales target.",
+            "Contribute to the overall sales growth strategies and plans.",
+            "Drive the entire sales cycle from initial prospect engagement to closure (Networking, presentation, negotiation, persistent follow-ups)",
+            "Identify and map business strengths and customer\u2019s diverse needs",
+            "Anticipate possible escalations and keep the Sales posted for timely intervention",
+            "Respond to bid documents, legal clauses, reviewing RFPs and supporting documents"
+        ],
+        "apply_link": "Email us your resume - careers@datamatics.com"
+    }
+]
