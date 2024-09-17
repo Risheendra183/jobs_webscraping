@@ -57,13 +57,13 @@ json
 
 [
     {
-        "company": "SAP",
+        "company": "  ",
         "job_title": "Job Title",
-        "eligibility_criteria": "Graduate",
-        "years_of_exp": "1-3",
+        "eligibility_criteria": " ",
+        "years_of_exp": " ",
         "location": "Location",
         "job_type": "Job Type",
-        "posted_date": "Sep 8, 2024",
+        "posted_date": " ",
         "apply_link": "https://jobs.sap.com/talentcommunity/apply/1102475701/?locale=en_US"
     }
 
