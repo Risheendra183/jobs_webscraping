@@ -16,8 +16,8 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 base_url = "https://www.accenture.com/in-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg="
 
 # Filenames for job data and links
-json_filename = 'all_jobs_data6.json'
-links_filename = 'job_links6.json'
+json_filename = 'merged_jobs_data.json'
+links_filename = 'merged_jobs_links.json'
 progress_filename = 'last_page.txt'
 
 # Function to save job data to the JSON file incrementally
