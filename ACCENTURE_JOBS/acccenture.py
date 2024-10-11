@@ -17,7 +17,7 @@ base_url = "https://www.accenture.com/in-en/careers/jobsearch?jk=&sb=1&vw=0&is_r
 
 # Filenames for job data and links
 json_filename = 'merged_jobs_data.json'
-links_filename = 'merged_jobs_links.json'
+links_filename = 'merged_job_links.json'
 progress_filename = 'last_page.txt'
 
 # Function to save job data to the JSON file incrementally
@@ -90,7 +90,20 @@ def scrape_job_details(job_url):
         WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "h1.cmp-title__text"))
         )
-        job_data = {}
+        job_data = {
+            'Company': 'Accenture',
+            'JOB TITLE': None,
+            'LOCATION': None,
+            'JOB ID': None,
+            'JOB TYPE': None,
+            'JOB DESCRIPTION': None,
+            'SKILLS REQUIRED': None,
+            'YEARS OF EXPERIENCE': None,
+            'EDUCATIONAL QUALIFICATION': None,
+            'Posted date': 'Null',
+            'APPLY LINK': None,
+            'About Company': "Accenture plc is a global multinational professional services company originating in the US and headquartered in Dublin, Ireland, that specializes in information technology (IT) services and consulting. A Fortune Global 500 company, it reported revenues of $64.9 billion in 2024."
+        }
 
         job_data['JOB TITLE'] = driver.find_element(By.CSS_SELECTOR, "h1.cmp-title__text").text.strip()
 
@@ -116,7 +129,7 @@ def scrape_job_details(job_url):
         if "Minimum" in description_content:
             experience = description_content.split("Minimum")[1].split("year(s)")[0].strip()
             experience = experience.replace('</b>', '').strip()
-            job_data['YEARS OF EXPERIENCE'] = f"{experience} years"
+            job_data['YEARS OF EXPERIENCE'] = f"<b>{experience} years"
         else:
             job_data['YEARS OF EXPERIENCE'] = None
 
@@ -132,7 +145,7 @@ def scrape_job_details(job_url):
         return job_data
     except NoSuchElementException:
         return {
-            'COMPANY':'Accenture',
+            'Company': 'Accenture',
             'JOB TITLE': None,
             'LOCATION': None,
             'JOB ID': None,
@@ -143,7 +156,7 @@ def scrape_job_details(job_url):
             'EDUCATIONAL QUALIFICATION': None,
             'Posted date': 'Null',
             'APPLY LINK': None,
-            'About Company': 'Accenture plc is a global multinational professional services company originating in the US and headquartered in Dublin, Ireland, that specializes in information technology (IT) services and consulting. A Fortune Global 500 company, it reported revenues of $64.9 billion in 2024.'
+            'About Company': "Accenture plc is a global multinational professional services company originating in the US and headquartered in Dublin, Ireland, that specializes in information technology (IT) services and consulting. A Fortune Global 500 company, it reported revenues of $64.9 billion in 2024."
         }
 
 # Main program to extract job details
