@@ -132,6 +132,7 @@ def scrape_job_details(job_url):
         return job_data
     except NoSuchElementException:
         return {
+            'COMPANY':'Accenture',
             'JOB TITLE': None,
             'LOCATION': None,
             'JOB ID': None,
@@ -140,7 +141,9 @@ def scrape_job_details(job_url):
             'SKILLS REQUIRED': None,
             'YEARS OF EXPERIENCE': None,
             'EDUCATIONAL QUALIFICATION': None,
-            'APPLY LINK': None
+            'Posted date': 'Null',
+            'APPLY LINK': None,
+            'About Company': 'Accenture plc is a global multinational professional services company originating in the US and headquartered in Dublin, Ireland, that specializes in information technology (IT) services and consulting. A Fortune Global 500 company, it reported revenues of $64.9 billion in 2024.'
         }
 
 # Main program to extract job details
